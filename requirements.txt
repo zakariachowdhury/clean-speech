@@ -1,0 +1,4 @@
+streamlit==0.89.0
+pydub==0.25.1
+ibm-watson==5.3.0
+ibm-cloud-sdk-core==3.11.3
